@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gregomuraca
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning anything I like 
-- 💞️ I’m looking to collaborate on web design project web 3.0 industrial design and similar 
+- 👀 I’m interested in technology.
+- 🌱 I’m currently learning computational thinkning and how to implement it in industrial design methodologies. 
+- 💞️ I’m looking to collaborate on design thinking project and similar 
 - 📫 How to reach me @gregomuraca
 
 <!---
