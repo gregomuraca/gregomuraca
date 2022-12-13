@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gregomuraca
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning computational thinkning and how to implement it in industrial design methodologies. 
-- 💞️ I’m looking to collaborate on design thinking project and similar 
+- 🌱 I’m currently learning computational thinking and how to implement it in industrial design methodologies. 
+- 💞️ I’m looking to collaborate on a design thinking projects. 
 - 📫 How to reach me @gregomuraca
 
 <!---
