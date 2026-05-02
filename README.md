@@ -1,38 +1,129 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gregorio
-================================================================================================================================
+# Hi, I'm Gregorio Muraca
 
-Product Designer and Marketing Consultant
------------------------------------------
+### Design + Marketing Consultant · Product Thinker · AI Workflow Builder
 
-* 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [https://bento.me/grmrc](http://bento.me/grmrc)
-* ✉️  You can contact me at [grego.muraca@gmail.com](mailto:grego.muraca@gmail.com )
-* 🚀  I'm currently working on [helping startups grow with design thinking](http://https://www.blauwstudio.com/)
-* 🧠  I'm learning ComfyUI Workflows
-* 🤝  I'm open to collaborating on Projects where you need help with the Journey centric design
+I'm based in Toronto and work at the intersection of **design strategy, digital marketing, branding, and AI-assisted workflows**.
 
-<a href="https://www.x.com/GregorioMuraca" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/GregorioMuraca?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+My background is in industrial and strategic product design, but my work has evolved across brand systems, websites, campaign strategy, customer success, and automation. I help companies clarify their message, improve their digital presence, and turn ideas into practical systems that can grow.
 
-### Skills
+I’m especially interested in how design thinking, AI, and automation can help teams move faster without losing quality.
 
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" width="36" height="36" alt="Squarespace" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
-</p>
+## What I Do
 
+- Brand and digital strategy
+- UX/UI and website design
+- Marketing campaign development
+- AI-assisted creative workflows
+- Prompt systems and content automation
+- Customer journey mapping
+- Growth-focused design thinking
+- Web and portfolio strategy for startups, small businesses, and emerging teams
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/gregomuraca" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/blauwstudio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gregoriomuraca" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/GregorioMuraca" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+## Current Focus
 
-### Badges
+I'm currently working on projects that combine:
 
-### Support Me
+- Design thinking for business growth
+- AI tools for marketing and creative production
+- Better workflows for teams and founders
+- Web experiences that communicate clearly and convert
+- Practical automation for repetitive creative and operational tasks
 
-<ul style="list-style-type: none; margin: 0;">
+I’m also learning and experimenting with **ComfyUI workflows**, image generation systems, and AI-assisted product development.
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/gregomuraca"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+---
 
-</ul>
+## Selected Interests
+
+I’m interested in projects where design is not only visual, but operational.
+
+That means using design to answer questions like:
+
+- What problem are we really solving?
+- Who is this for?
+- What makes the offer clear?
+- Where is the friction in the journey?
+- How can we make the system easier to repeat, scale, or automate?
+
+---
+
+## Portfolio
+
+You can see my work here:
+
+[https://bento.me/grmrc](https://bento.me/grmrc)
+
+---
+
+## Tools & Skills
+
+### Design & Creative
+
+- Figma
+- Adobe Illustrator
+- Adobe Photoshop
+- Sketch
+- Framer
+- Branding
+- UX/UI design
+- Visual systems
+- Presentation design
+
+### Web & Digital
+
+- HTML
+- CSS
+- WordPress
+- Webflow
+- Squarespace
+- Wix
+- Landing page strategy
+- SEO fundamentals
+- Conversion-focused design
+
+### AI & Automation
+
+- Prompt engineering
+- AI image generation
+- ComfyUI workflows
+- Creative workflow automation
+- AI-assisted content systems
+- Research and strategy workflows
+
+---
+
+## Collaboration
+
+I'm open to collaborating on projects where you need help with:
+
+- Journey-centric design
+- Brand and product storytelling
+- Website or landing page strategy
+- AI-powered marketing workflows
+- Turning early ideas into clear prototypes or business-facing assets
+
+---
+
+## Contact
+
+Email: [grego.muraca@gmail.com](mailto:grego.muraca@gmail.com)
+
+LinkedIn: [linkedin.com/in/gregoriomuraca](https://www.linkedin.com/in/gregoriomuraca)
+
+GitHub: [github.com/gregomuraca](https://www.github.com/gregomuraca)
+
+Instagram: [@blauwstudio](http://www.instagram.com/blauwstudio)
+
+X: [@GregorioMuraca](https://www.x.com/GregorioMuraca)
+
+---
+
+## Personal Note
+
+I believe good design is not decoration.
+
+Good design helps people understand, decide, act, and grow.
