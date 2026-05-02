@@ -54,8 +54,8 @@ That means using design to answer questions like:
 ## Portfolio
 
 You can see my work here:
+[blauwstudio.com](https://blauwstudio.com)
 
-wip 
 ---
 
 ## Tools & Skills
