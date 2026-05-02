@@ -55,8 +55,7 @@ That means using design to answer questions like:
 
 You can see my work here:
 
-[https://bento.me/grmrc](https://bento.me/grmrc)
-
+wip 
 ---
 
 ## Tools & Skills
