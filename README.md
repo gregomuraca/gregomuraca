@@ -53,7 +53,7 @@ That means using design to answer questions like:
 
 ## Portfolio
 
-You can see my work here:
+You can see my work here: [personal](https://mrcg.ca) or
 [blauwstudio.com](https://blauwstudio.com)
 
 ---
