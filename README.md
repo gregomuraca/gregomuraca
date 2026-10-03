@@ -1,128 +1,108 @@
 # Hi, I'm Gregorio Muraca
 
-### Design + Marketing Consultant · Product Thinker · AI Workflow Builder
+### Product Marketing · GTM Strategy · AI & Technical Products
 
-I'm based in Toronto and work at the intersection of **design strategy, digital marketing, branding, and AI-assisted workflows**.
+I help make technical products easier to understand, adopt, and use.
 
-My background is in industrial and strategic product design, but my work has evolved across brand systems, websites, campaign strategy, customer success, and automation. I help companies clarify their message, improve their digital presence, and turn ideas into practical systems that can grow.
+My background in product design and systems thinking shapes how I approach GTM work. I also build AI products and workflows myself, mainly to test ideas, understand technical constraints, and remove repetitive work.
 
-I’m especially interested in how design thinking, AI, and automation can help teams move faster without losing quality.
-
----
-
-## What I Do
-
-- Brand and digital strategy
-- UX/UI and website design
-- Marketing campaign development
-- AI-assisted creative workflows
-- Prompt systems and content automation
-- Customer journey mapping
-- Growth-focused design thinking
-- Web and portfolio strategy for startups, small businesses, and emerging teams
+This GitHub documents those builds and experiments.
 
 ---
 
-## Current Focus
+## Selected Builds
 
-I'm currently working on projects that combine:
+### PitchKit AI
 
-- Design thinking for business growth
-- AI tools for marketing and creative production
-- Better workflows for teams and founders
-- Web experiences that communicate clearly and convert
-- Practical automation for repetitive creative and operational tasks
+**Human-in-the-loop AI workflow product**
 
-I’m also learning and experimenting with **ComfyUI workflows**, image generation systems, and AI-assisted product development.
+PitchKit AI turns rough client notes into campaign direction, platform-ready copy, production prompts, follow-up communication, CRM notes, and a readiness assessment.
 
----
+I designed the workflow around operator judgment, platform constraints, and human review rather than a single prompt.
 
-## Selected Interests
-
-I’m interested in projects where design is not only visual, but operational.
-
-That means using design to answer questions like:
-
-- What problem are we really solving?
-- Who is this for?
-- What makes the offer clear?
-- Where is the friction in the journey?
-- How can we make the system easier to repeat, scale, or automate?
+`AI workflows` `prompt systems` `UX` `structured evaluation`
 
 ---
 
-## Portfolio
+### Will AI Take My Job?
 
-You can see my work here: [personal](https://mrcg.ca) or
-[blauwstudio.com](https://blauwstudio.com)
+**AI career-guidance product**
 
----
+A zero-to-one product that assesses how automation may affect a job and identifies transferable skills and adjacent career paths.
 
-## Tools & Skills
+I owned the product definition, UX, prompt logic, prototyping, implementation, launch, and iteration.
 
-### Design & Creative
+[willaitakemyjob.ca](https://willaitakemyjob.ca)
 
-- Figma
-- Adobe Illustrator
-- Adobe Photoshop
-- Sketch
-- Framer
-- Branding
-- UX/UI design
-- Visual systems
-- Presentation design
-
-### Web & Digital
-
-- HTML
-- CSS
-- WordPress
-- Webflow
-- Squarespace
-- Wix
-- Landing page strategy
-- SEO fundamentals
-- Conversion-focused design
-
-### AI & Automation
-
-- Prompt engineering
-- AI image generation
-- ComfyUI workflows
-- Creative workflow automation
-- AI-assisted content systems
-- Research and strategy workflows
+`AI product` `UX` `prompt logic` `rapid prototyping`
 
 ---
 
-## Collaboration
+### Clercom
 
-I'm open to collaborating on projects where you need help with:
+**Agentic commerce research and prototype**
 
-- Journey-centric design
-- Brand and product storytelling
-- Website or landing page strategy
-- AI-powered marketing workflows
-- Turning early ideas into clear prototypes or business-facing assets
+Clercom explores how a seller-side AI system could decide when and how to act on customer intent while respecting merchant constraints, inventory, incentives, and policy rules.
 
----
+The work focuses on orchestration, decision logic, policy gates, and the boundary between automation and human control.
 
-## Contact
+[clercom.blauw.studio](https://clercom.blauw.studio)
 
-Email: [grego.muraca@gmail.com](mailto:grego.muraca@gmail.com)
-
-LinkedIn: [linkedin.com/in/gregoriomuraca](https://www.linkedin.com/in/gregoriomuraca)
-
-GitHub: [github.com/gregomuraca](https://www.github.com/gregomuraca)
-
-Instagram: [@blauwstudio](http://www.instagram.com/blauwstudio)
-
-X: [@GregorioMuraca](https://www.x.com/GregorioMuraca)
+`agentic systems` `commerce` `decision logic` `policy gates`
 
 ---
 
-## Personal Note
+### Spotify Ads Automation Hub
 
-I believe good design is not decoration.
+**Operational workflow prototype**
 
-Good design helps people understand, decide, act, and grow.
+I built a Python API integration connecting Spotify Ads Manager with Google Sheets, then developed a Vercel-based Automation Hub to test ways to reduce repetitive planning and reporting work.
+
+The prototypes were built independently to explore workflow automation inside a complex advertising platform.
+
+`Python` `APIs` `Google Sheets` `Vercel` `workflow automation`
+
+---
+
+## Currently Exploring
+
+I am currently working on:
+
+- Agentic workflows and tool use
+- Human-in-the-loop systems
+- AI evaluation and policy gates
+- Context and instruction design
+
+I am especially interested in systems where the difficult question is not simply **what should the model generate?**, but **what should happen next, under which constraints, and with what level of human control?**
+
+---
+
+## Tools & Methods
+
+**AI & Automation**  
+`ChatGPT` `Claude` `Gemini` `Python` `n8n` `APIs` `Vercel` `Lovable`
+
+**Product & Design**  
+`Figma` `Product Strategy` `User Research` `UX` `Information Architecture` `Rapid Prototyping`
+
+**Web**  
+`HTML` `CSS` `JavaScript` `WordPress` `Webflow`
+
+**GTM & Measurement**  
+`Positioning` `Customer Research` `Product Adoption` `Google Analytics` `Looker` `BigQuery` `Salesforce`
+
+---
+
+## Background
+
+I trained in **Industrial & Product Design at Politecnico di Milano** and completed graduate coursework in **Strategic Product Design at TU Delft**.
+
+My work later expanded into digital products, GTM, customer operations, and AI workflows. Most recently, I worked with advertisers on **Spotify Ads**, across product adoption, platform workflows, measurement, and automation.
+
+---
+
+## Elsewhere
+
+**Portfolio:** [mrcg.ca](https://mrcg.ca)  
+**LinkedIn:** [linkedin.com/in/gregoriomuraca](https://www.linkedin.com/in/gregoriomuraca)  
+**Email:** [grego.muraca@gmail.com](mailto:grego.muraca@gmail.com)
