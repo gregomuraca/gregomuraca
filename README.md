@@ -19,6 +19,7 @@ This GitHub documents those builds and experiments.
 PitchKit AI turns rough client notes into campaign direction, platform-ready copy, production prompts, follow-up communication, CRM notes, and a readiness assessment.
 
 I designed the workflow around operator judgment, platform constraints, and human review rather than a single prompt.
+
 [pitchkit](https://pitchkit.blauw.studio)
 
 `AI workflows` `prompt systems` `UX` `structured evaluation`
